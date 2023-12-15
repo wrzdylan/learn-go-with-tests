@@ -1,0 +1,3 @@
+- https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go         
+- https://gobyexample.com/         
+- https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/        
